@@ -1,3 +1,5 @@
+# This was all done using google collaboratory and Pyspark
+
 # Amazon_Vine_Analysis
 
 ### Overview of the analysis: 
